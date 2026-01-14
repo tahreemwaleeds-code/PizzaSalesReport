@@ -103,16 +103,6 @@ This Power BI report provides a comprehensive overview of pizza sales performanc
 
 ## 👤 Author
 
-**Your Name**
+**TahWal**
 *Data Analyst / BI Developer*
 
----
-
-If you want, I can:
-
-* Make this **shorter for GitHub**
-* Customize it for **resume projects**
-* Add **DAX measures section**
-* Write a **professional project description**
-
-Just tell me 👍
